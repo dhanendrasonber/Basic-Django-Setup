@@ -15,9 +15,6 @@ python3 -m venv venv
 # Activate virtual environment
 source venv/bin/activate
 
-# Install Django
-pip install django
-
 # Install Django REST framework
 pip install djangorestframework
 

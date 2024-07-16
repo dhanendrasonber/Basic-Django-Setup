@@ -47,9 +47,6 @@ mysql -u username -p < database_setup.sql
 
 Contributions are welcome! If you have any improvements or additional setup scripts that you would like to add, feel free to fork this repository and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 ```
 
 Feel free to customize it further according to your specific needs and preferences!

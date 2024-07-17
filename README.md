@@ -35,7 +35,7 @@ Welcome to the Project Setup Scripts Repository! This repository provides shell 
 
 ### PowerShell Scripts (Windows)
 
-1. Clone the repository:
+1. Clone the repository: 
     ```ps1
     git clone https://github.com/dhanendrasonber/Basic-Project-Setup.git
     ```

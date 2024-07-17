@@ -10,6 +10,6 @@ if (-not $projectName) {
 if (-not (Get-Command "create-react-app" -ErrorAction SilentlyContinue)) {
     npm install -g create-react-app
 }
-
+ 
 # Create a new React project
 create-react-app $projectName

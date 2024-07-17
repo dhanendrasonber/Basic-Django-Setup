@@ -18,37 +18,35 @@ Welcome to the Project Setup Scripts Repository! This repository provides shell 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/project-setup-scripts.git
+    git clone https://github.com/dhanendrasonber/Basic-Project-Setup.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd project-setup-scripts
+    cd Basic-Project-Setup
     ```
 3. Make the script executable:
     ```sh
-    chmod +x file_name.sh
+    chmod +x <path_to_script>/setup_<tech>_project.sh
     ```
-4. Run the script for the desired technology:
+4. Run the script:
     ```sh
-    ./file_name.sh <projectName>
+    ./<path_to_script>/setup_<tech>_project.sh <projectName>
     ```
-    If you don't provide a project name as an argument, the script will prompt you to enter it.
 
 ### PowerShell Scripts (Windows)
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/project-setup-scripts.git
+    ```ps1
+    git clone https://github.com/dhanendrasonber/Basic-Project-Setup.git
     ```
 2. Navigate to the project directory:
-    ```sh
-    cd project-setup-scripts
-    ```
-3. Run the script for the desired technology:
     ```ps1
-    .\setup_django_project.ps1 -projectName <projectName>
+    cd Basic-Project-Setup
     ```
-    If you don't provide a project name as an argument, the script will prompt you to enter it.
+3. Run the script:
+    ```ps1
+    .\<path_to_script>\setup_<tech>_project.ps1 -projectName <projectName>
+    ```
 
 ## Contributing
 

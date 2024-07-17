@@ -7,6 +7,9 @@ Welcome to the Project Setup Scripts Repository! This repository provides shell 
 ## Supported Technologies
 
 - Django REST Framework
+- React JS
+- Node JS
+- Vue JS
 - more technologies coming soon
 
 ## Usage
